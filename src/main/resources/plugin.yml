@@ -1,0 +1,4 @@
+name: DarkAPI
+version: '${project.version}'
+main: my.darklord.darkapi.DarkAPI
+api-version: 1.18
