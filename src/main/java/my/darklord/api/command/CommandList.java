@@ -1,4 +1,4 @@
-package my.darklord.darkness.api.command;
+package my.darklord.api.command;
 
 import org.bukkit.command.CommandSender;
 

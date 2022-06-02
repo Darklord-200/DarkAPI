@@ -1,4 +1,4 @@
-package my.darklord.darkness.api;
+package my.darklord.api;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
